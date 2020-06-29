@@ -1,0 +1,1 @@
+In this project, I'll do a similar exercise as challenge_1, the background color change project, but it includes also a random hex color output.
